@@ -17,8 +17,8 @@ A powerful, modular, open-source desktop dashboard designed to optimize your Blo
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Natrecors/BloxFruit.git](https://github.com/Natrecors/Roblox_BloxFruit.git)
-   cd BloxFruit
+   git clone [https://github.com/Natrecors/Roblox_BloxFruit.git](https://github.com/Natrecors/Roblox_BloxFruit.git)
+   cd Roblox_BloxFruit
 
 2. **Install required dependencies:**
    Make sure you have Python 3 installed, then run:
